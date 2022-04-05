@@ -6,9 +6,10 @@
 
 The purpose of this analysis is the compare the ride sharing data between different city types such as rural, urban, and suburban cities.  
 
-## Results
+## Results 
 
-The more rural the city, the higher the rates and the less rides provided. The more developed/urban the city, the lower the fares and the more rides provided.  
+Rural cities had the lowest amount of drivers and rides but the highest average fare per ride and highest average fare per driver. 
+The urban cities had over 10x more the number of rides and drivers but had the lowest average far per ride and lowest average fare per driver.  The suburban cities fell in between rural and urban cities.  
 
 ![Fig5](https://user-images.githubusercontent.com/99801608/161674303-7ca3e4dd-4d12-45d6-a46c-dabaa07f946c.png)
 
@@ -18,6 +19,6 @@ The more rural the city, the higher the rates and the less rides provided. The m
 
 ## Summary
 
-An overview of the data shows a correlation between city sizes and fares.  The more rural market has higher fares but less rides and less drivers.  The urban market has lower fares but more drivers and more rides.  The suburban market falls between in regards to rides and fares.  
+An overview of the data shows a correlation between city sizes and fares.  The more rural market has higher fares but less rides and less drivers.  The urban market has lower fares but more drivers and more rides.  The suburban market falls between urban and rural markets in regards to rides and fares.  
 
 ![image](https://user-images.githubusercontent.com/99801608/161674060-b05a3885-0fd0-47e9-bd4e-a355c8511b93.png)
